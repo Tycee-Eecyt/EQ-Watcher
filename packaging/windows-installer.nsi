@@ -1,6 +1,6 @@
 Unicode True
 Name "EQ Watcher"
-OutFile "EQ-Watcher-Setup-windows-x64.exe"
+OutFile "..\EQ-Watcher-Setup-windows-x64.exe"
 InstallDir "$LOCALAPPDATA\EQ Watcher"
 RequestExecutionLevel user
 SetCompressor /SOLID lzma
@@ -12,7 +12,7 @@ UninstPage instfiles
 
 Section "Install"
   SetOutPath "$INSTDIR"
-  File /r "dist\EQ-Watcher\*"
+  File /r "..\dist\EQ-Watcher\*"
   CreateDirectory "$SMPROGRAMS\EQ Watcher"
   CreateShortcut "$SMPROGRAMS\EQ Watcher\EQ Watcher.lnk" "$INSTDIR\EQ-Watcher.exe"
   CreateShortcut "$DESKTOP\EQ Watcher.lnk" "$INSTDIR\EQ-Watcher.exe"
