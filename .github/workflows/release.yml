@@ -40,8 +40,10 @@ jobs:
           python -m pip install -r requirements-build.txt
           pyinstaller --noconfirm --clean --onedir --windowed --contents-directory . --name EQ-Watcher --add-data "data/assets:data/assets" --add-data "data/midi:data/midi" --add-data "data/p99_spell_catalog.json:data" linux_gina.py
       - name: Build Windows installer
-        shell: cmd
-        run: '"C:\Program Files (x86)\NSIS\makensis.exe" packaging\windows-installer.nsi'
+        shell: pwsh
+        run: |
+          choco install nsis --yes --no-progress
+          & "${env:ProgramFiles(x86)}\NSIS\makensis.exe" packaging\windows-installer.nsi
       - uses: actions/upload-artifact@v4
         with:
           name: windows-release
