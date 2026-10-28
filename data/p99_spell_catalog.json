@@ -1,0 +1,2166 @@
+{
+  "generated_at": "2026-09-10T00:19:27.267734+00:00",
+  "source": "Project 1999 Wiki class spell lists",
+  "classes": {
+    "Bard": {
+      "wiki_url": "https://p99wiki.eqgeeks.org/Bard",
+      "levels": {
+        "1": [
+          "Chant of Battle"
+        ],
+        "2": [
+          "Chords of Dissonance"
+        ],
+        "3": [
+          "Jaxan's Jig o' Vigor"
+        ],
+        "4": [
+          "Lyssa's Locating Lyric"
+        ],
+        "5": [
+          "Selo's Accelerando"
+        ],
+        "6": [
+          "Hymn of Restoration"
+        ],
+        "7": [
+          "Jonthan's Whistling Warsong"
+        ],
+        "8": [
+          "Kelin's Lugubrious Lament"
+        ],
+        "9": [
+          "Elemental Rhythms"
+        ],
+        "10": [
+          "Anthem De Arms"
+        ],
+        "11": [
+          "Cinda's Charismatic Carillon"
+        ],
+        "12": [
+          "Brusco's Boastful Bellow"
+        ],
+        "13": [
+          "Purifying Rhythms"
+        ],
+        "14": [
+          "Lyssa's Cataloging Libretto"
+        ],
+        "15": [
+          "Kelin's Lucid Lullaby"
+        ],
+        "16": [
+          "Tarew's Aquatic Ayre"
+        ],
+        "17": [
+          "Guardian Rhythms"
+        ],
+        "18": [
+          "Denon's Disruptive Discord"
+        ],
+        "19": [
+          "Shauri's Sonorous Clouding"
+        ],
+        "20": [
+          "Largo's Melodic Binding",
+          "Cassindra's Chant of Clarity"
+        ],
+        "21": [
+          "Melanie's Mellifluous Motion"
+        ],
+        "22": [
+          "Alenia's Disenchanting Melody"
+        ],
+        "23": [
+          "Selo's Consonant Chain"
+        ],
+        "24": [
+          "Lyssa's Veracious Concord"
+        ],
+        "25": [
+          "Psalm of Warmth"
+        ],
+        "26": [
+          "Angstlich's Appalling Screech"
+        ],
+        "27": [
+          "Solon's Song of the Sirens"
+        ],
+        "28": [
+          "Crission's Pixie Strike"
+        ],
+        "29": [
+          "Psalm of Vitality"
+        ],
+        "30": [
+          "Fufil's Curtailing Chant"
+        ],
+        "31": [
+          "Agilmente's Aria of Eagles"
+        ],
+        "32": [
+          "Cassindra's Chorus of Clarity"
+        ],
+        "33": [
+          "Psalm of Cooling"
+        ],
+        "34": [
+          "Cantana of Soothing",
+          "Lyssa's Solidarity of Vision"
+        ],
+        "35": [
+          "Denon's Dissension"
+        ],
+        "36": [
+          "Vilia's Verses of Celerity"
+        ],
+        "37": [
+          "Psalm of Purity"
+        ],
+        "38": [
+          "Tuyen's Chant of Flame"
+        ],
+        "39": [
+          "Solon's Bewitching Bravura"
+        ],
+        "40": [
+          "Syvelian's Anti-Magic Aria"
+        ],
+        "41": [
+          "Psalm of Mystic Shielding"
+        ],
+        "42": [
+          "McVaxius' Berserker Crescendo"
+        ],
+        "43": [
+          "Denon's Desperate Dirge"
+        ],
+        "44": [
+          "Cassindra's Elegy"
+        ],
+        "45": [
+          "Jonthan's Provocation"
+        ],
+        "46": [
+          "Tuyen's Chant of Frost"
+        ],
+        "47": [
+          "Niv's Melody of Preservation"
+        ],
+        "48": [
+          "Selo's Chords of Cessation"
+        ],
+        "49": [
+          "Shield of Song"
+        ],
+        "50": [
+          "Verses of Victory",
+          "Melody of Ervaj"
+        ],
+        "51": [
+          "Selo's Song of Travel",
+          "Largo's Absonant Binding"
+        ],
+        "52": [
+          "Nillipus' March of the Wee"
+        ],
+        "53": [
+          "Song of Twilight",
+          "Song of Dawn"
+        ],
+        "54": [
+          "Vilia's Chorus of Celerity",
+          "Selo's Assonant Strane"
+        ],
+        "55": [
+          "Cantana of Replenishment",
+          "Brusco's Bombastic Bellow",
+          "Occlusion of Sound"
+        ],
+        "56": [
+          "Song of Highsun",
+          "Song of Midnight"
+        ],
+        "57": [
+          "McVaxius' Rousing Rondo",
+          "Cassindra's Insipid Ditty"
+        ],
+        "58": [
+          "Niv's Harmonic",
+          "Jonthan's Inspiration"
+        ],
+        "59": [
+          "Denon's Bereavement",
+          "Solon's Charismatic Concord"
+        ],
+        "60": [
+          "Kazumi's Note of Preservation",
+          "Angstlich's Assonance",
+          "Composition of Ervaj"
+        ]
+      }
+    },
+    "Cleric": {
+      "wiki_url": "https://p99wiki.eqgeeks.org/Cleric",
+      "levels": {
+        "1": [
+          "Courage",
+          "Cure Poison",
+          "Divine Aura",
+          "Flash of Light",
+          "Lull",
+          "Minor Healing",
+          "Spook the Dead",
+          "Strike",
+          "True North",
+          "Yaulp"
+        ],
+        "5": [
+          "Cure Blindness",
+          "Cure Disease",
+          "Furor",
+          "Gate",
+          "Holy Armor",
+          "Light Healing",
+          "Reckless Strength",
+          "Stun",
+          "Summon Drink",
+          "Ward Undead"
+        ],
+        "9": [
+          "Center",
+          "Endure Fire",
+          "Endure Poison",
+          "Fear",
+          "Hammer of Wrath",
+          "Invigor",
+          "Root",
+          "Sense the Dead",
+          "Soothe",
+          "Summon Food",
+          "Word of Pain"
+        ],
+        "14": [
+          "Bind Affinity",
+          "Cancel Magic",
+          "Endure Cold",
+          "Endure Disease",
+          "Expulse Undead",
+          "Halo of Light",
+          "Healing",
+          "Invisibility versus Undead",
+          "Sense Summoned",
+          "Smite",
+          "Symbol of Transal"
+        ],
+        "19": [
+          "Calm",
+          "Daring",
+          "Endure Magic",
+          "Extinguish Fatigue",
+          "Holy Might",
+          "Spirit Armor",
+          "Ward Summoned",
+          "Word of Shadow",
+          "Yaulp II"
+        ],
+        "24": [
+          "Bravery",
+          "Counteract Poison",
+          "Dismiss Undead",
+          "Greater Healing",
+          "Hammer of Striking",
+          "Inspire Fear",
+          "Symbol of Ryltan",
+          "Wave of Fear"
+        ],
+        "29": [
+          "Abundant Drink",
+          "Counteract Disease",
+          "Divine Barrier",
+          "Enstill",
+          "Expulse Summoned",
+          "Guard",
+          "Imbue Amber",
+          "Imbue Black Pearl",
+          "Imbue Black Sapphire",
+          "Imbue Diamond",
+          "Imbue Emerald",
+          "Imbue Opal",
+          "Imbue Peridot",
+          "Imbue Plains Pebble",
+          "Imbue Rose Quartz",
+          "Imbue Ruby",
+          "Imbue Sapphire",
+          "Imbue Topaz",
+          "Panic the Dead",
+          "Revive",
+          "Word of Spirit",
+          "Wrath"
+        ],
+        "34": [
+          "Abundant Food",
+          "Armor of Protection",
+          "Atone",
+          "Blinding Luminance",
+          "Expel Undead",
+          "Force",
+          "Frenzied Strength",
+          "Resist Fire",
+          "Resist Poison",
+          "Superior Healing",
+          "Symbol of Pinzarn",
+          "Tremor",
+          "Valor",
+          "Word of Health"
+        ],
+        "39": [
+          "Armor of Faith",
+          "Complete Healing",
+          "Dismiss Summoned",
+          "Invoke Fear",
+          "Nullify Magic",
+          "Pacify",
+          "Resist Cold",
+          "Resist Disease",
+          "Resuscitate",
+          "Turning of the Unnatural",
+          "Word of Souls"
+        ],
+        "44": [
+          "Banish Undead",
+          "Celestial Healing",
+          "Earthquake",
+          "Hammer of Requital",
+          "Resist Magic",
+          "Resolution",
+          "Retribution",
+          "Symbol of Naltron",
+          "Yaulp III"
+        ],
+        "49": [
+          "Abolish Poison",
+          "Expel Summoned",
+          "Immobilize",
+          "Resurrection",
+          "Shield of Words",
+          "Sound of Force",
+          "Word Divine",
+          "Word of Healing"
+        ],
+        "50": [
+          "Improved Invis to Undead"
+        ],
+        "51": [
+          "Death Pact",
+          "Dread of Night",
+          "Remedy",
+          "Sunskin"
+        ],
+        "52": [
+          "Heroic Bond",
+          "Heroism",
+          "Upheaval",
+          "Word of Vigor"
+        ],
+        "53": [
+          "Annul Magic",
+          "Divine Light",
+          "Yaulp IV"
+        ],
+        "54": [
+          "Reckoning",
+          "Symbol of Marzin",
+          "Unswerving Hammer"
+        ],
+        "55": [
+          "Exile Undead",
+          "Fortitude",
+          "Stun Command",
+          "Wake of Tranquility"
+        ],
+        "56": [
+          "Banish Summoned",
+          "Mark of Karn",
+          "Paralyzing Earth",
+          "Reviviscence"
+        ],
+        "57": [
+          "Aegis",
+          "Bulwark of Faith",
+          "Trepidation",
+          "Word of Restoration"
+        ],
+        "58": [
+          "Antidote",
+          "Enforced Reverence",
+          "Naltron's Mark"
+        ],
+        "59": [
+          "Celestial Elixir",
+          "The Unspoken Word"
+        ],
+        "60": [
+          "Aegolism",
+          "Banishment of Shadows",
+          "Divine Intervention",
+          "Word of Redemption"
+        ]
+      }
+    },
+    "Druid": {
+      "wiki_url": "https://p99wiki.eqgeeks.org/Druid",
+      "levels": {
+        "1": [
+          "Burst of Flame",
+          "Dance of the Fireflies",
+          "Endure Fire",
+          "Flame Lick",
+          "Lull Animal",
+          "Minor Healing",
+          "Panic Animal",
+          "Sense Animals",
+          "Skin Like Wood",
+          "Snare"
+        ],
+        "5": [
+          "Burst of Fire",
+          "Camouflage",
+          "Cure Disease",
+          "Cure Poison",
+          "Gate",
+          "Grasping Roots",
+          "Harmony",
+          "Invoke Lightning",
+          "Ward Summoned",
+          "Whirling Wind"
+        ],
+        "9": [
+          "Endure Cold",
+          "Enduring Breath",
+          "Firefist",
+          "Ignite",
+          "Invisibility versus Animals",
+          "Light Healing",
+          "Shield of Thistles",
+          "Starshine",
+          "Strength of Earth",
+          "Thistlecoat",
+          "Treeform"
+        ],
+        "14": [
+          "Befriend Animal",
+          "Bind Affinity",
+          "Cascade of Hail",
+          "Expulse Summoned",
+          "Halo of Light",
+          "Invigor",
+          "Levitate",
+          "See Invisible",
+          "Skin Like Rock",
+          "Spirit of Wolf",
+          "Stinging Swarm",
+          "Summon Drink",
+          "Summon Food"
+        ],
+        "19": [
+          "Barbcoat",
+          "Calm Animal",
+          "Cancel Magic",
+          "Careless Lightning",
+          "Dizzying Wind",
+          "Endure Disease",
+          "Endure Poison",
+          "Feral Spirit",
+          "Healing",
+          "Ring of Butcher",
+          "Ring of Commons",
+          "Ring of Karana",
+          "Ring of Surefall Glade",
+          "Ring of Toxxulia",
+          "Shield of Barbs",
+          "Superior Camouflage",
+          "Terrorize Animal"
+        ],
+        "24": [
+          "Charm Animals",
+          "Creeping Crud",
+          "Dismiss Summoned",
+          "Ensnaring Roots",
+          "Pogonip",
+          "Resist Fire",
+          "Ring of Feerrott",
+          "Ring of Lavastorm",
+          "Ring of Ro",
+          "Ring of Steamfont",
+          "Ring of the Combines",
+          "Scale of Wolf",
+          "Skin Like Steel",
+          "Spirit of Cheetah",
+          "Sunbeam",
+          "Tremor",
+          "Wolf Form"
+        ],
+        "29": [
+          "Beguile Plants",
+          "Bramblecoat",
+          "Circle of Butcher",
+          "Circle of Commons",
+          "Circle of Karana",
+          "Circle of Surefall Glade",
+          "Circle of Toxxulia",
+          "Combust",
+          "Counteract Disease",
+          "Counteract Poison",
+          "Ensnare",
+          "Extinguish Fatigue",
+          "Greater Healing",
+          "Imbue Emerald",
+          "Imbue Plains Pebble",
+          "Immolate",
+          "Ring of Misty",
+          "Shield of Brambles",
+          "Succor: East"
+        ],
+        "34": [
+          "Beguile Animals",
+          "Circle of Feerrott",
+          "Circle of Iceclad",
+          "Circle of Lavastorm",
+          "Circle of Ro",
+          "Circle of Steamfont",
+          "Circle of the Combines",
+          "Drones of Doom",
+          "Earthquake",
+          "Endure Magic",
+          "Expel Summoned",
+          "Fury of Air",
+          "Greater Wolf Form",
+          "Lightning Strike",
+          "Regeneration",
+          "Resist Cold",
+          "Ring of Great Divide",
+          "Ring of Iceclad",
+          "Strength of Stone",
+          "Succor: Butcher"
+        ],
+        "39": [
+          "Avalanche",
+          "Circle of Great Divide",
+          "Circle of Misty",
+          "Enveloping Roots",
+          "Firestrike",
+          "Pack Regeneration",
+          "Pack Spirit",
+          "Ring of Cobalt Scar",
+          "Ring of Wakening Lands",
+          "Ro's Fiery Sundering",
+          "Share Wolf Form",
+          "Shield of Spikes",
+          "Skin Like Diamond",
+          "Spikecoat",
+          "Succor: Ro",
+          "Wind of the North",
+          "Wind of the South"
+        ],
+        "44": [
+          "Allure of the Wild",
+          "Banish Summoned",
+          "Calefaction",
+          "Chloroplast",
+          "Circle of Cobalt Scar",
+          "Circle of Wakening Lands",
+          "Drifting Death",
+          "Fixation of Ro",
+          "Form of the Great Wolf",
+          "Nullify Magic",
+          "Resist Disease",
+          "Resist Poison",
+          "Savage Spirit",
+          "Storm Strength",
+          "Succor: Lavastorm"
+        ],
+        "49": [
+          "Engulfing Roots",
+          "Fire",
+          "Ice",
+          "Lightning Blast",
+          "Pack Chloroplast",
+          "Resist Magic",
+          "Shield of Thorns (Spell)",
+          "Skin Like Nature",
+          "Starfire",
+          "Succor: North",
+          "Thorncoat"
+        ],
+        "50": [
+          "Improved Superior Camouflage"
+        ],
+        "51": [
+          "Circle of Winter",
+          "Legacy of Spike",
+          "Repulse Animal",
+          "Superior Healing",
+          "Upheaval"
+        ],
+        "52": [
+          "Breath of Ro",
+          "Call of Karana",
+          "Circle of Summer",
+          "Egress"
+        ],
+        "53": [
+          "Glamour of Tunare",
+          "Spirit of Scale",
+          "Winged Death"
+        ],
+        "54": [
+          "Blizzard",
+          "Form of the Howler",
+          "Regrowth",
+          "Scoriae"
+        ],
+        "55": [
+          "Annul Magic",
+          "Chloroblast",
+          "Exile Summoned",
+          "Girdle of Karana",
+          "Nature Walkers Behest",
+          "Tunare's Request"
+        ],
+        "56": [
+          "Bladecoat",
+          "Breath of Karana",
+          "Engorging Roots",
+          "Wake of Karana"
+        ],
+        "57": [
+          "Bonds of Tunare",
+          "Frost",
+          "Natureskin",
+          "Succor"
+        ],
+        "58": [
+          "Fist of Karana",
+          "Regrowth of the Grove",
+          "Shield of Blades"
+        ],
+        "59": [
+          "Legacy of Thorn",
+          "Spirit of Oak",
+          "Wildfire"
+        ],
+        "60": [
+          "Banishment",
+          "Entrapping Roots",
+          "Form of the Hunter",
+          "Mask of the Hunter",
+          "Nature's Touch",
+          "Protection of the Glades"
+        ]
+      }
+    },
+    "Enchanter": {
+      "wiki_url": "https://p99wiki.eqgeeks.org/Enchanter",
+      "levels": {
+        "1": [
+          "Lull",
+          "Minor Illusion",
+          "Minor Shielding",
+          "Pendril's Animation",
+          "Reclaim Energy",
+          "Shallow Breath",
+          "Strengthen",
+          "Taper Enchantment",
+          "True North",
+          "Weaken"
+        ],
+        "4": [
+          "Color Flux",
+          "Enfeeblement",
+          "Fear",
+          "Gate",
+          "Haze",
+          "Illusion: Half-Elf",
+          "Illusion: Human",
+          "Invisibility",
+          "Juli's Animation",
+          "Mesmerize",
+          "Suffocating Sphere",
+          "Tashan"
+        ],
+        "8": [
+          "Alliance",
+          "Bind Sight",
+          "Cancel Magic",
+          "Chaotic Feedback",
+          "Enchant Clay",
+          "Enchant Silver",
+          "Eye of Confusion",
+          "Illusion: Gnome",
+          "Illusion: Wood Elf",
+          "Lesser Shielding",
+          "Mircyl's Animation",
+          "Root",
+          "See Invisible",
+          "Sentinel",
+          "Soothe"
+        ],
+        "12": [
+          "Bind Affinity",
+          "Charm",
+          "Choke",
+          "Ebbing Strength",
+          "Enduring Breath",
+          "Illusion: Dark Elf",
+          "Illusion: Erudite",
+          "Illusion: Halfling",
+          "Illusion: High Elf",
+          "Kilan's Animation",
+          "Languid Pace",
+          "Memory Blur",
+          "Mist",
+          "Serpent Sight",
+          "Thicken Mana",
+          "Whirl Till You Hurl"
+        ],
+        "16": [
+          "Breeze",
+          "Chase the Moon",
+          "Disempower",
+          "Enchant Electrum",
+          "Enthrall",
+          "Identify",
+          "Illusion: Barbarian",
+          "Illusion: Dwarf",
+          "Illusion: Tree",
+          "Invisibility versus Undead",
+          "Levitate",
+          "Mesmerization",
+          "Quickness",
+          "Rune I",
+          "Sanity Warp",
+          "Shalee's Animation",
+          "Shielding"
+        ],
+        "20": [
+          "Benevolence",
+          "Berserker Strength",
+          "Calm",
+          "Cloud",
+          "Color Shift",
+          "Crystallize Mana",
+          "Endure Magic",
+          "Feckless Might",
+          "Illusion: Iksar",
+          "Illusion: Ogre",
+          "Illusion: Troll",
+          "Shifting Sight",
+          "Sisna's Animation",
+          "Sympathetic Aura",
+          "Tashani"
+        ],
+        "24": [
+          "Alacrity",
+          "Beguile",
+          "Chaos Flux",
+          "Enchant Gold",
+          "Illusion: Earth Elemental",
+          "Illusion: Skeleton",
+          "Invigor",
+          "Major Shielding",
+          "Rune II",
+          "Sagar's Animation",
+          "Strip Enchantment",
+          "Tepid Deeds"
+        ],
+        "29": [
+          "Augmentation",
+          "Clarify Mana",
+          "Clarity",
+          "Curse of the Simple Mind",
+          "Dyn's Dizzying Draught",
+          "Enstill",
+          "Feedback",
+          "Illusion: Air Elemental",
+          "Illusion: Water Elemental",
+          "Listless Power",
+          "Nullify Magic",
+          "Obscure",
+          "Suffocate",
+          "Uleen's Animation",
+          "Ultravision"
+        ],
+        "34": [
+          "Anarchy",
+          "Boltran's Animation",
+          "Cast Sight",
+          "Enchant Platinum",
+          "Entrance",
+          "Gift of Magic",
+          "Greater Shielding",
+          "Illusion: Fire Elemental",
+          "Insipid Weakness",
+          "Mana Sieve",
+          "Radiant Visage",
+          "Rune III"
+        ],
+        "39": [
+          "Aanya's Animation",
+          "Cajoling Whispers",
+          "Celerity",
+          "Distill Mana",
+          "Gravity Flux",
+          "Illusion: Dry Bone",
+          "Illusion: Spirit Wolf",
+          "Immobilize",
+          "Insight",
+          "Invoke Fear",
+          "Mind Wipe",
+          "Pacify",
+          "Rampage",
+          "Resist Magic",
+          "Shade",
+          "Wandering Mind"
+        ],
+        "44": [
+          "Arch Shielding",
+          "Boon of the Garou",
+          "Brilliance",
+          "Color Skew",
+          "Discordant Mind",
+          "Enchant Velium",
+          "Extinguish Fatigue",
+          "Illusion: Werewolf",
+          "Incapacitate",
+          "Pillage Enchantment",
+          "Rune IV",
+          "Shiftless Deeds",
+          "Summon Companion",
+          "Tashania",
+          "Weakness",
+          "Yegoreff's Animation"
+        ],
+        "49": [
+          "Adorning Grace",
+          "Allure",
+          "Berserker Spirit",
+          "Blanket of Forgetfulness",
+          "Dazzle",
+          "Enchant Adamantite",
+          "Enchant Brellium",
+          "Enchant Mithril",
+          "Enchant Steel",
+          "Gasping Embrace",
+          "Group Resist Magic",
+          "Kintaz's Animation",
+          "Paralyzing Earth",
+          "Purify Mana",
+          "Reoccurring Amnesia",
+          "Shadow",
+          "Swift Like The Wind"
+        ],
+        "50": [
+          "Improved Invisibility"
+        ],
+        "51": [
+          "Collaboration",
+          "Theft of Thought",
+          "Wake of Tranquility"
+        ],
+        "52": [
+          "Boon of the Clear Mind",
+          "Color Slant",
+          "Fascination",
+          "Rune V"
+        ],
+        "53": [
+          "Aanya's Quickening",
+          "Boltran's Agacerie",
+          "Cripple",
+          "Recant Magic"
+        ],
+        "54": [
+          "Clarity II",
+          "Dementia",
+          "Glamour of Kintaz",
+          "Shield of the Magi"
+        ],
+        "55": [
+          "Gift of Insight",
+          "Largarn's Lamentation",
+          "Memory Flux",
+          "Wind of Tashani",
+          "Zumaik's Animation"
+        ],
+        "56": [
+          "Augment",
+          "Overwhelming Splendor",
+          "Torment of Argli",
+          "Trepidation"
+        ],
+        "57": [
+          "Enlightenment",
+          "Forlorn Deeds",
+          "Tashanian",
+          "Umbra"
+        ],
+        "58": [
+          "Bedlam",
+          "Fetter",
+          "Wonderous Rapidity"
+        ],
+        "59": [
+          "Asphyxiate",
+          "Gift of Pure Thought",
+          "Rapture"
+        ],
+        "60": [
+          "Dictate",
+          "Gift of Brilliance",
+          "Visions of Grandeur",
+          "Wind of Tishanian"
+        ]
+      }
+    },
+    "Magician": {
+      "wiki_url": "https://p99wiki.eqgeeks.org/Magician",
+      "levels": {
+        "1": [
+          "Burst of Flame",
+          "Flare",
+          "Minor Shielding",
+          "Reclaim Energy",
+          "Summon Dagger",
+          "Summon Drink",
+          "Summon Food",
+          "True North"
+        ],
+        "4": [
+          "Burn",
+          "Elementalkin: Air",
+          "Elementalkin: Earth",
+          "Elementalkin: Fire",
+          "Elementalkin: Water",
+          "Fire Flux",
+          "Gate",
+          "Sense Summoned",
+          "Summon Bandages",
+          "Summon Wisp"
+        ],
+        "8": [
+          "Dimensional Pocket",
+          "Elementaling: Air",
+          "Elementaling: Earth",
+          "Elementaling: Fire",
+          "Elementaling: Water",
+          "Eye of Zomm",
+          "Flame Bolt",
+          "Invisibility",
+          "Lesser Shielding",
+          "Renew Elements",
+          "Shield of Fire",
+          "Shock of Blades",
+          "Staff of Tracing"
+        ],
+        "12": [
+          "Bind Affinity",
+          "Burnout",
+          "Cancel Magic",
+          "Column of Fire",
+          "Elemental: Air",
+          "Elemental: Earth",
+          "Elemental: Fire",
+          "Elemental: Water",
+          "Rain of Blades",
+          "Summon Fang",
+          "Ward Summoned"
+        ],
+        "16": [
+          "Identify",
+          "Minor Summoning: Air",
+          "Minor Summoning: Earth",
+          "Minor Summoning: Fire",
+          "Minor Summoning: Water",
+          "Phantom Leather",
+          "See Invisible",
+          "Shielding",
+          "Shock of Flame",
+          "Staff of Warding",
+          "Summon Heatstone",
+          "Summon Throwing Dagger"
+        ],
+        "20": [
+          "Bolt of Flame",
+          "Elemental Shield",
+          "Expulse Summoned",
+          "Lesser Summoning: Air",
+          "Lesser Summoning: Earth",
+          "Lesser Summoning: Fire",
+          "Lesser Summoning: Water",
+          "Rain of Fire",
+          "Renew Summoning",
+          "Shield of Flame",
+          "Spear of Warding",
+          "Summon Arrows",
+          "Summon Waterstone"
+        ],
+        "24": [
+          "Cornucopia",
+          "Everfount",
+          "Flame Flux",
+          "Major Shielding",
+          "Malaise",
+          "Shock of Spikes",
+          "Staff of Runes",
+          "Summoning: Air",
+          "Summoning: Earth",
+          "Summoning: Fire",
+          "Summoning: Water"
+        ],
+        "29": [
+          "Burnout II",
+          "Dismiss Summoned",
+          "Expedience",
+          "Greater Summoning: Air",
+          "Greater Summoning: Earth",
+          "Greater Summoning: Fire",
+          "Greater Summoning: Water",
+          "Inferno Shield",
+          "Phantom Chain",
+          "Rain of Spikes",
+          "Summon Coldstone",
+          "Sword of Runes"
+        ],
+        "34": [
+          "Blaze",
+          "Cinder Bolt",
+          "Dimensional Hole",
+          "Greater Shielding",
+          "Minor Conjuration: Air",
+          "Minor Conjuration: Earth",
+          "Minor Conjuration: Fire",
+          "Minor Conjuration: Water",
+          "Monster Summoning I",
+          "Nullify Magic",
+          "Staff of Symbols",
+          "Summon Shard of the Core"
+        ],
+        "39": [
+          "Barrier of Combustion",
+          "Dagger of Symbols",
+          "Expel Summoned",
+          "Flame Arc",
+          "Lesser Conjuration: Air",
+          "Lesser Conjuration: Earth",
+          "Lesser Conjuration: Fire",
+          "Lesser Conjuration: Water",
+          "Rain of Lava",
+          "Summon Companion",
+          "Summon Ring of Flight"
+        ],
+        "44": [
+          "Arch Shielding",
+          "Conjuration: Air",
+          "Conjuration: Earth",
+          "Conjuration: Fire",
+          "Conjuration: Water",
+          "Elemental Armor",
+          "Elemental Maelstrom",
+          "Malaisement",
+          "Modulating Rod",
+          "Phantom Plate",
+          "Shock of Swords"
+        ],
+        "46": [
+          "Summon Orb"
+        ],
+        "49": [
+          "Banish Summoned",
+          "Burnout III",
+          "Greater Conjuration: Air",
+          "Greater Conjuration: Earth",
+          "Greater Conjuration: Fire",
+          "Greater Conjuration: Water",
+          "Lava Bolt",
+          "Rain of Swords",
+          "Shield of Lava"
+        ],
+        "50": [
+          "Monster Summoning II"
+        ],
+        "51": [
+          "Gift of Xev",
+          "Malosi",
+          "Scintillation",
+          "Vocarate: Earth"
+        ],
+        "52": [
+          "Bristlebane's Bundle",
+          "Char",
+          "Phantom Armor",
+          "Vocarate: Fire"
+        ],
+        "53": [
+          "Annul Magic",
+          "Boon of Immolation",
+          "Quiver of Marr",
+          "Vocarate: Air"
+        ],
+        "54": [
+          "Bandoleer of Luclin",
+          "Scars of Sigil",
+          "Shield of the Magi",
+          "Vocarate: Water"
+        ],
+        "55": [
+          "Burnout IV",
+          "Call of the Hero",
+          "Pouch of Quellious",
+          "Rage of Zomm",
+          "Sirocco",
+          "Wrath of the Elements"
+        ],
+        "56": [
+          "Cadeau of Flame",
+          "Dyzil's Deafening Decoy",
+          "Exile Summoned",
+          "Muzzle of Mardu"
+        ],
+        "57": [
+          "Eye of Tallon",
+          "Greater Vocaration: Earth",
+          "Shock of Steel"
+        ],
+        "58": [
+          "Greater Vocaration: Fire",
+          "Malosini",
+          "Velocity"
+        ],
+        "59": [
+          "Greater Vocaration: Air",
+          "Manastorm",
+          "Seeking Flame of Seukor",
+          "Valiant Companion"
+        ],
+        "60": [
+          "Aegis of Ro",
+          "Banishment",
+          "Greater Vocaration: Water",
+          "Mala",
+          "Monster Summoning III"
+        ]
+      }
+    },
+    "Necromancer": {
+      "wiki_url": "https://p99wiki.eqgeeks.org/Necromancer",
+      "levels": {
+        "1": [
+          "Cavorting Bones",
+          "Coldlight",
+          "Disease Cloud",
+          "Invisibility versus Undead",
+          "Lifetap",
+          "Locate Corpse",
+          "Minor Shielding",
+          "Reclaim Energy",
+          "Sense the Dead",
+          "Siphon Strength"
+        ],
+        "4": [
+          "Clinging Darkness",
+          "Endure Cold",
+          "Fear",
+          "Gate",
+          "Grim Aura",
+          "Leering Corpse",
+          "Lifespike",
+          "Numb the Dead",
+          "Poison Bolt",
+          "True North"
+        ],
+        "8": [
+          "Bone Walk",
+          "Dark Empathy",
+          "Dark Pact",
+          "Deadeye",
+          "Gather Shadows",
+          "Impart Strength",
+          "Lesser Shielding",
+          "Mend Bones",
+          "Shadow Step",
+          "Vampiric Embrace",
+          "Ward Undead"
+        ],
+        "12": [
+          "Bind Affinity",
+          "Convoke Shadow",
+          "Endure Disease",
+          "Engulfing Darkness",
+          "Heat Blood",
+          "Leach",
+          "Lifedraw",
+          "Scent of Dusk",
+          "Sight Graft",
+          "Spook the Dead",
+          "Wave of Enfeeblement"
+        ],
+        "16": [
+          "Banshee Aura",
+          "Cancel Magic",
+          "Cure Disease",
+          "Feign Death",
+          "Heart Flutter",
+          "Hungry Earth",
+          "Infectious Cloud",
+          "Restless Bones",
+          "Shielding",
+          "Shieldskin",
+          "Spirit Armor",
+          "Voice Graft"
+        ],
+        "20": [
+          "Allure of Death",
+          "Animate Dead",
+          "Dominate Undead",
+          "Expulse Undead",
+          "Harmshield",
+          "Identify",
+          "Shadow Compact",
+          "Shadow Vortex",
+          "Siphon Life",
+          "Track Corpse",
+          "Word of Shadow"
+        ],
+        "24": [
+          "Breath of the Dead",
+          "Haunting Corpse",
+          "Intensify Death",
+          "Leatherskin",
+          "Major Shielding",
+          "Rapacious Subvention",
+          "Resist Cold",
+          "Rest the Dead",
+          "Scent of Shadow",
+          "Screaming Terror",
+          "Shadow Sight",
+          "Shock of Poison"
+        ],
+        "29": [
+          "Boil Blood",
+          "Dismiss Undead",
+          "Dooming Darkness",
+          "Panic the Dead",
+          "Renew Bones",
+          "Spirit Tap",
+          "Summon Dead",
+          "Vampiric Curse",
+          "Word of Spirit"
+        ],
+        "34": [
+          "Beguile Undead",
+          "Call of Bones",
+          "Greater Shielding",
+          "Invoke Fear",
+          "Invoke Shadow",
+          "Resist Disease",
+          "Root",
+          "Steelskin",
+          "Surge of Enfeeblement",
+          "Torbas' Acid Blast",
+          "Venom of the Snake"
+        ],
+        "39": [
+          "Augment Death",
+          "Chilling Embrace",
+          "Counteract Disease",
+          "Drain Spirit",
+          "Expel Undead",
+          "Malignant Dead",
+          "Nullify Magic",
+          "Scent of Darkness",
+          "Scourge",
+          "Summon Corpse",
+          "Word of Souls"
+        ],
+        "44": [
+          "Arch Shielding",
+          "Asystole",
+          "Cackling Bones",
+          "Corporeal Empathy",
+          "Covetous Subversion",
+          "Dead Man Floating",
+          "Diamondskin",
+          "Ignite Bones",
+          "Incinerate Bones",
+          "Pact of Shadow",
+          "Summon Companion"
+        ],
+        "49": [
+          "Banish Undead",
+          "Bond of Death",
+          "Cajole Undead",
+          "Cascading Darkness",
+          "Dead Men Floating",
+          "Drain Soul",
+          "Ignite Blood",
+          "Invoke Death",
+          "Lich",
+          "Paralyzing Earth"
+        ],
+        "50": [
+          "Improved Invis to Undead"
+        ],
+        "51": [
+          "Dread of Night",
+          "Envenomed Bolt",
+          "Sacrifice",
+          "Splurt"
+        ],
+        "52": [
+          "Defoliation",
+          "Manaskin",
+          "Plague",
+          "Scent of Terris"
+        ],
+        "53": [
+          "Annul Magic",
+          "Convergence",
+          "Enstill",
+          "Minion of Shadows"
+        ],
+        "54": [
+          "Deflux",
+          "Shadowbond",
+          "Shield of the Magi",
+          "Thrall of Bones"
+        ],
+        "55": [
+          "Augmentation of Death",
+          "Chill Bones",
+          "Conglaciation of Bone",
+          "Infusion",
+          "Levant",
+          "Skin of the Shadow"
+        ],
+        "56": [
+          "Cessation of Cor",
+          "Sedulous Subversion",
+          "Servant of Bones",
+          "Trepidation"
+        ],
+        "57": [
+          "Conjure Corpse",
+          "Exile Undead",
+          "Vexing Mordinia"
+        ],
+        "58": [
+          "Immobilize",
+          "Pyrocruor",
+          "Quivering Veil of Xarn"
+        ],
+        "59": [
+          "Devouring Darkness",
+          "Emissary of Thule",
+          "Touch of Night"
+        ],
+        "60": [
+          "Arch Lich",
+          "Banishment of Shadows",
+          "Demi Lich",
+          "Enslave Death",
+          "Gangrenous Touch of Zum'uul",
+          "Trucidation"
+        ]
+      }
+    },
+    "Paladin": {
+      "wiki_url": "https://p99wiki.eqgeeks.org/Paladin",
+      "levels": {
+        "9": [
+          "Courage",
+          "Cure Poison",
+          "Flash of Light",
+          "Minor Healing",
+          "Spook the Dead",
+          "True North",
+          "Yaulp"
+        ],
+        "15": [
+          "Cure Disease",
+          "Hammer of Wrath",
+          "Holy Armor",
+          "Light Healing",
+          "Lull",
+          "Sense the Dead",
+          "Ward Undead"
+        ],
+        "22": [
+          "Center",
+          "Endure Poison",
+          "Halo of Light",
+          "Invigor",
+          "Invisibility versus Undead",
+          "Reckless Strength",
+          "Root"
+        ],
+        "30": [
+          "Endure Magic",
+          "Expulse Undead",
+          "Hammer of Striking",
+          "Healing",
+          "Soothe",
+          "Spirit Armor",
+          "Stun",
+          "Symbol of Transal"
+        ],
+        "39": [
+          "Cancel Magic",
+          "Counteract Poison",
+          "Daring",
+          "Divine Purpose",
+          "Endure Disease",
+          "Greater Healing",
+          "Guard",
+          "Symbol of Ryltan",
+          "Yaulp II"
+        ],
+        "49": [
+          "Armor of Faith",
+          "Calm",
+          "Dismiss Undead",
+          "Divine Might",
+          "Holy Might",
+          "Revive",
+          "Symbol of Pinzarn",
+          "Valor"
+        ],
+        "51": [
+          "Pacify"
+        ],
+        "52": [
+          "Force",
+          "Frenzied Strength"
+        ],
+        "54": [
+          "Enstill",
+          "Expel Undead"
+        ],
+        "55": [
+          "Divine Aura",
+          "Divine Favor",
+          "Resist Magic",
+          "Wave of Healing"
+        ],
+        "56": [
+          "Counteract Disease",
+          "Yaulp III"
+        ],
+        "57": [
+          "Superior Healing"
+        ],
+        "58": [
+          "Nullify Magic",
+          "Symbol of Naltron"
+        ],
+        "59": [
+          "Celestial Cleansing",
+          "Resurrection"
+        ],
+        "60": [
+          "Divine Strength",
+          "Resolution",
+          "Shield of Words",
+          "Yaulp IV"
+        ]
+      }
+    },
+    "Ranger": {
+      "wiki_url": "https://p99wiki.eqgeeks.org/Ranger",
+      "levels": {
+        "9": [
+          "Endure Fire",
+          "Flame Lick",
+          "Glimpse",
+          "Lull Animal",
+          "Minor Healing",
+          "Skin Like Wood",
+          "Snare"
+        ],
+        "15": [
+          "Burst of Fire",
+          "Camouflage",
+          "Cure Poison",
+          "Dance of the Fireflies",
+          "Feet like Cat",
+          "Grasping Roots",
+          "Invoke Lightning",
+          "Thistlecoat"
+        ],
+        "22": [
+          "Bind Sight",
+          "Endure Cold",
+          "Enduring Breath",
+          "Firefist",
+          "Harmony",
+          "Ignite",
+          "Light Healing",
+          "Panic Animal",
+          "Skin Like Rock",
+          "Ward Summoned"
+        ],
+        "30": [
+          "Barbcoat",
+          "Cancel Magic",
+          "Eyes of the Cat",
+          "Invigor",
+          "Shield of Thistles",
+          "Spirit of Wolf",
+          "Stinging Swarm",
+          "Strength of Earth"
+        ],
+        "39": [
+          "Bramblecoat",
+          "Call of Sky",
+          "Calm Animal",
+          "Careless Lightning",
+          "Dismiss Summoned",
+          "Healing",
+          "Levitate",
+          "See Invisible",
+          "Skin Like Steel"
+        ],
+        "49": [
+          "Call of Flame",
+          "Ensnaring Roots",
+          "Immolate",
+          "Resist Fire",
+          "Shield of Brambles",
+          "Spikecoat",
+          "Superior Camouflage",
+          "Wolf Form"
+        ],
+        "50": [
+          "Call of Earth"
+        ],
+        "51": [
+          "Ensnare",
+          "Jolt",
+          "Strength of Nature"
+        ],
+        "52": [
+          "Extinguish Fatigue",
+          "Firestrike"
+        ],
+        "53": [
+          "Storm Strength"
+        ],
+        "54": [
+          "Drones of Doom",
+          "Skin Like Diamond"
+        ],
+        "55": [
+          "Call of Fire",
+          "Chloroplast",
+          "Cinder Jolt",
+          "Resist Cold"
+        ],
+        "56": [
+          "Chill Sight",
+          "Greater Wolf Form"
+        ],
+        "57": [
+          "Greater Healing"
+        ],
+        "58": [
+          "Nullify Magic",
+          "Shield of Spikes"
+        ],
+        "59": [
+          "Calefaction",
+          "Skin Like Nature"
+        ],
+        "60": [
+          "Call of the Predator",
+          "Enveloping Roots",
+          "Thorncoat"
+        ]
+      }
+    },
+    "Shadow Knight": {
+      "wiki_url": "https://p99wiki.eqgeeks.org/Shadow_Knight",
+      "levels": {
+        "9": [
+          "Disease Cloud",
+          "Invisibility versus Undead",
+          "Leering Corpse",
+          "Lifetap",
+          "Locate Corpse",
+          "Sense the Dead",
+          "Siphon Strength"
+        ],
+        "15": [
+          "Bone Walk",
+          "Clinging Darkness",
+          "Endure Cold",
+          "Fear",
+          "Lifespike",
+          "Numb the Dead",
+          "Shadow Step"
+        ],
+        "22": [
+          "Convoke Shadow",
+          "Dark Empathy",
+          "Deadeye",
+          "Engulfing Darkness",
+          "Grim Aura",
+          "Spook the Dead",
+          "Vampiric Embrace",
+          "Ward Undead"
+        ],
+        "29": [
+          "Strengthen Death"
+        ],
+        "30": [
+          "Endure Disease",
+          "Feign Death",
+          "Gather Shadows",
+          "Heat Blood",
+          "Lifedraw",
+          "Restless Bones",
+          "Wave of Enfeeblement"
+        ],
+        "34": [
+          "Shieldskin"
+        ],
+        "39": [
+          "Animate Dead",
+          "Cancel Magic",
+          "Expulse Undead",
+          "Heart Flutter",
+          "Resist Cold",
+          "Shadow Vortex",
+          "Shroud of Hate"
+        ],
+        "49": [
+          "Breath of the Dead",
+          "Dismiss Undead",
+          "Dooming Darkness",
+          "Invoke Fear",
+          "Life Leech",
+          "Shadow Sight",
+          "Summon Dead",
+          "Word of Spirit"
+        ],
+        "50": [
+          "Shroud of Pain"
+        ],
+        "51": [
+          "Siphon Life",
+          "Summon Corpse"
+        ],
+        "52": [
+          "Malignant Dead",
+          "Summon Companion",
+          "Rest the Dead"
+        ],
+        "53": [
+          "Boil Blood"
+        ],
+        "54": [
+          "Banshee Aura",
+          "Panic the Dead"
+        ],
+        "55": [
+          "Bobbing Corpse",
+          "Expel Undead",
+          "Shroud of Death",
+          "Shroud of Undeath",
+          "Spirit Tap"
+        ],
+        "56": [
+          "Steelskin"
+        ],
+        "57": [
+          "Drain Spirit",
+          "Vampiric Curse"
+        ],
+        "58": [
+          "Cackling Bones",
+          "Nullify Magic"
+        ],
+        "59": [
+          "Cascading Darkness",
+          "Diamondskin"
+        ],
+        "60": [
+          "Asystole",
+          "Drain Soul",
+          "Death Peace"
+        ]
+      }
+    },
+    "Shaman": {
+      "wiki_url": "https://p99wiki.eqgeeks.org/Shaman",
+      "levels": {
+        "1": [
+          "Burst of Flame",
+          "Cure Disease",
+          "Dexterous Aura",
+          "Endure Cold",
+          "Flash of Light",
+          "Inner Fire",
+          "Minor Healing",
+          "Strengthen",
+          "True North"
+        ],
+        "5": [
+          "Cure Poison",
+          "Drowsy",
+          "Endure Fire",
+          "Feet like Cat",
+          "Fleeting Fury",
+          "Frost Rift",
+          "Gate",
+          "Scale Skin",
+          "Sicken",
+          "Spirit Pouch",
+          "Summon Drink"
+        ],
+        "9": [
+          "Cure Blindness",
+          "Endure Disease",
+          "Light Healing",
+          "Sense Animals",
+          "Serpent Sight",
+          "Spirit of Bear",
+          "Spirit of Wolf",
+          "Spirit Sight",
+          "Summon Food",
+          "Tainted Breath"
+        ],
+        "14": [
+          "Bind Affinity",
+          "Burst of Strength",
+          "Disempower",
+          "Endure Poison",
+          "Enduring Breath",
+          "Invisibility versus Animals",
+          "Levitate",
+          "Root",
+          "Spirit of Snake",
+          "Spirit Strike",
+          "Turtle Skin",
+          "Walking Sleep"
+        ],
+        "19": [
+          "Affliction",
+          "Cancel Magic",
+          "Endure Magic",
+          "Frenzy",
+          "Healing",
+          "Infectious Cloud",
+          "Insidious Fever",
+          "Malise",
+          "Shrink",
+          "Spirit of Cat",
+          "Spirit Strength",
+          "Vision"
+        ],
+        "24": [
+          "Cannibalize",
+          "Counteract Disease",
+          "Creeping Vision",
+          "Envenomed Breath",
+          "Frost Strike",
+          "Invigor",
+          "Poison Storm",
+          "Protect",
+          "Regeneration",
+          "Resist Cold",
+          "Spirit of Cheetah",
+          "Spirit of Monkey",
+          "Spirit of Ox",
+          "Scale of Wolf"
+        ],
+        "29": [
+          "Alluring Aura",
+          "Befriend Animal",
+          "Counteract Poison",
+          "Greater Healing",
+          "Imbue Amber",
+          "Imbue Ivory",
+          "Imbue Jade",
+          "Imbue Sapphire",
+          "Invisibility",
+          "Listless Power",
+          "Quickness",
+          "Raging Strength",
+          "Resist Fire",
+          "Rising Dexterity",
+          "Tagar's Insects",
+          "Ultravision"
+        ],
+        "34": [
+          "Charm Animals",
+          "Companion Spirit",
+          "Enstill",
+          "Fury",
+          "Health",
+          "Malisement",
+          "Nimble",
+          "Resist Disease",
+          "Scourge",
+          "Shifting Shield",
+          "Shock of the Tainted",
+          "Talisman of Tnarg",
+          "Winter's Roar"
+        ],
+        "39": [
+          "Assiduous Vision",
+          "Blinding Luminance",
+          "Cannibalize II",
+          "Chloroplast",
+          "Deftness",
+          "Extinguish Fatigue",
+          "Furious Strength",
+          "Gale of Poison",
+          "Glamour",
+          "Insidious Malady",
+          "Resist Poison",
+          "Togor's Insects",
+          "Tumultuous Strength",
+          "Venom of the Snake",
+          "Vigilant Spirit"
+        ],
+        "44": [
+          "Agility",
+          "Alacrity",
+          "Blast of Poison",
+          "Blizzard Blast",
+          "Guardian",
+          "Guardian Spirit",
+          "Incapacitate",
+          "Nullify Magic",
+          "Resist Magic",
+          "Stamina",
+          "Summon Companion",
+          "Talisman of Altuna"
+        ],
+        "49": [
+          "Abolish Disease",
+          "Charisma",
+          "Dexterity",
+          "Envenomed Bolt",
+          "Frenzied Spirit",
+          "Malosi",
+          "Plague",
+          "Rage",
+          "Strength"
+        ],
+        "50": [
+          "Spirit Quickening"
+        ],
+        "51": [
+          "Superior Healing",
+          "Immobilize",
+          "Talisman of Jasinth",
+          "Turgur's Insects"
+        ],
+        "52": [
+          "Insidious Decay",
+          "Regrowth",
+          "Spirit of Scale"
+        ],
+        "53": [
+          "Cripple",
+          "Deliriously Nimble",
+          "Talisman of Shadoo"
+        ],
+        "54": [
+          "Cannibalize III",
+          "Ice Strike",
+          "Riotous Health",
+          "Shroud of the Spirits"
+        ],
+        "55": [
+          "Annul Magic",
+          "Chloroblast",
+          "Form of the Great Bear",
+          "Spirit of the Howler",
+          "Talisman of Kragg",
+          "Torrent of Poison"
+        ],
+        "56": [
+          "Acumen",
+          "Bane of Nife",
+          "Celerity",
+          "Paralyzing Earth"
+        ],
+        "57": [
+          "Malosini",
+          "Maniacal Strength",
+          "Talisman of the Brute",
+          "Talisman of the Cat"
+        ],
+        "58": [
+          "Cannibalize IV",
+          "Mortal Deftness",
+          "Talisman of the Rhino",
+          "Talisman of the Serpent",
+          "Tigir's Insects"
+        ],
+        "59": [
+          "Pox of Bertoxxulous",
+          "Talisman of the Raptor",
+          "Unfailing Reverence",
+          "Voice of the Berserker"
+        ],
+        "60": [
+          "Avatar",
+          "Focus of Spirit",
+          "Malo",
+          "Primal Avatar",
+          "Torpor"
+        ]
+      }
+    },
+    "Wizard": {
+      "wiki_url": "https://p99wiki.eqgeeks.org/Wizard",
+      "levels": {
+        "1": [
+          "Frost Bolt",
+          "Minor Shielding",
+          "Numbing Cold",
+          "Shock of Frost",
+          "Sphere of Light",
+          "True North"
+        ],
+        "4": [
+          "Fade",
+          "Gate",
+          "Glimpse",
+          "Icestrike",
+          "O'Keils Radiation",
+          "Root",
+          "See Invisible",
+          "Shock of Fire"
+        ],
+        "8": [
+          "Column of Frost",
+          "Eye of Zomm",
+          "Fingers of Fire",
+          "Fire Bolt",
+          "Lesser Shielding",
+          "Sense Summoned",
+          "Shadow Step",
+          "Shock of Ice"
+        ],
+        "12": [
+          "Bind Affinity",
+          "Cancel Magic",
+          "Firestorm",
+          "Frost Spiral of Al'Kabor",
+          "Gaze",
+          "Halo of Light",
+          "Resistant Skin",
+          "Shock of Lightning"
+        ],
+        "16": [
+          "Bind Sight",
+          "Flame Shock",
+          "Heat Sight",
+          "Identify",
+          "Invisibility",
+          "Lightning Bolt",
+          "Pillar of Fire",
+          "Project Lightning",
+          "Shielding",
+          "Shieldskin"
+        ],
+        "20": [
+          "Elemental Shield",
+          "Enstill",
+          "Fay Gate",
+          "Fire Spiral of Al'Kabor",
+          "Force Shock",
+          "North Gate",
+          "Sight",
+          "Tishan's Clash",
+          "Tox Gate"
+        ],
+        "24": [
+          "Cast Force",
+          "Cazic Gate",
+          "Column of Lightning",
+          "Combine Gate",
+          "Common Gate",
+          "Frost Shock",
+          "Leatherskin",
+          "Levitate",
+          "Lightning Storm",
+          "Major Shielding",
+          "Nek Gate",
+          "Ro Gate",
+          "West Gate"
+        ],
+        "29": [
+          "Bonds of Force",
+          "Energy Storm",
+          "Evacuate: North",
+          "Fay Portal",
+          "Imbue Fire Opal",
+          "Inferno Shock",
+          "Magnify",
+          "North Portal",
+          "Shock Spiral of Al'Kabor",
+          "Thunder Strike",
+          "Tox Portal",
+          "Yonder"
+        ],
+        "34": [
+          "Cazic Portal",
+          "Circle of Force",
+          "Combine Portal",
+          "Evacuate: Fay",
+          "Great Divide Gate",
+          "Greater Shielding",
+          "Harvest",
+          "Ice Shock",
+          "Iceclad Gate",
+          "Iceclad Portal",
+          "Lava Storm",
+          "Nek Portal",
+          "Nullify Magic",
+          "O'Keils Flickering Flame",
+          "Steelskin",
+          "Thunderclap"
+        ],
+        "39": [
+          "Chill Sight",
+          "Cobalt Scar Gate",
+          "Common Portal",
+          "Concussion",
+          "Evacuate: Ro",
+          "Force Spiral of Al'Kabor",
+          "Great Divide Portal",
+          "Immobilize",
+          "Invisibility to Undead",
+          "Lightning Shock",
+          "Markar's Relocation",
+          "Ro Portal",
+          "Shifting Sight",
+          "Tishan's Relocation",
+          "Translocate: Combine",
+          "Translocate: Fay",
+          "Translocate: North",
+          "Translocate: Tox",
+          "Wakening Lands Gate",
+          "West Portal"
+        ],
+        "44": [
+          "Arch Shielding",
+          "Cobalt Scar Portal",
+          "Conflagration",
+          "Diamondskin",
+          "Elemental Armor",
+          "Enticement of Flame",
+          "Evacuate: Nek",
+          "Force Strike",
+          "Frost Storm",
+          "Gravity Flux",
+          "Translocate: Cazic",
+          "Translocate: Common",
+          "Translocate: West",
+          "Translocate: Nek",
+          "Translocate: Ro",
+          "Wakening Lands Portal"
+        ],
+        "46": [
+          "Alter Plane: Hate",
+          "Alter Plane: Sky"
+        ],
+        "49": [
+          "Evacuate: West",
+          "Ice Comet",
+          "Markar's Clash",
+          "Paralyzing Earth",
+          "Rend",
+          "Supernova",
+          "Translocate: Cobalt Scar",
+          "Translocate: Great Divide",
+          "Translocate: Iceclad",
+          "Translocate: Wakening Lands",
+          "Wrath of Al'Kabor"
+        ],
+        "50": [
+          "Translocate"
+        ],
+        "51": [
+          "Atol's Spectral Shackles",
+          "Draught of Fire",
+          "Pillar of Frost",
+          "Tishan's Discord"
+        ],
+        "52": [
+          "Abscond",
+          "Lure of Frost",
+          "Manaskin",
+          "Tears of Druzzil",
+          "Translocate: Group"
+        ],
+        "53": [
+          "Annul Magic",
+          "Inferno of Al'Kabor",
+          "Jyll's Static Pulse"
+        ],
+        "54": [
+          "Pillar of Lightning",
+          "Shield of the Magi",
+          "Thunderbold",
+          "Voltaic Draught"
+        ],
+        "55": [
+          "Draught of Jiva",
+          "Improved Invisibility",
+          "Lure of Flame",
+          "Plainsight",
+          "Tears of Solusek"
+        ],
+        "56": [
+          "Jyll's Zephyr of Ice",
+          "Markar's Discord",
+          "Retribution of Al'Kabor"
+        ],
+        "57": [
+          "Draught of Ice",
+          "Evacuate",
+          "Eye of Tallon",
+          "Pillar of Flame"
+        ],
+        "58": [
+          "Fetter",
+          "Lure of Lightning",
+          "Manasink",
+          "Spell:Tears of Prexus"
+        ],
+        "59": [
+          "Flaming Sword of Xuzl",
+          "Invert Gravity",
+          "Jyll's Wave of Heat",
+          "Vengeance of Al'Kabor"
+        ],
+        "60": [
+          "Disintegrate",
+          "Hsagra's Wrath",
+          "Ice Spear of Solist",
+          "Lure of Ice",
+          "Porlos' Fury",
+          "Sunstrike",
+          "Winds of Gelid"
+        ]
+      }
+    }
+  }
+}

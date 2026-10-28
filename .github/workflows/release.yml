@@ -1,0 +1,63 @@
+name: Release
+
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  linux:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Build Linux installer archive
+        run: |
+          mkdir -p release/EQ-Watcher-linux-x86_64/data release/EQ-Watcher-linux-x86_64/packaging
+          cp linux_gina.py run-linux-gina.sh install-linux.sh release/EQ-Watcher-linux-x86_64/
+          cp packaging/eq-watcher.desktop.in release/EQ-Watcher-linux-x86_64/packaging/
+          cp -R data/assets data/midi release/EQ-Watcher-linux-x86_64/data/
+          cp data/p99_spell_catalog.json release/EQ-Watcher-linux-x86_64/data/
+          chmod +x release/EQ-Watcher-linux-x86_64/install-linux.sh release/EQ-Watcher-linux-x86_64/run-linux-gina.sh
+          tar -C release -czf EQ-Watcher-linux-x86_64.tar.gz EQ-Watcher-linux-x86_64
+      - uses: actions/upload-artifact@v4
+        with:
+          name: linux-release
+          path: EQ-Watcher-linux-x86_64.tar.gz
+
+  windows:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+      - name: Build Windows application
+        shell: pwsh
+        run: |
+          python -m pip install -r requirements-build.txt
+          pyinstaller --noconfirm --clean --onedir --windowed --contents-directory . --name EQ-Watcher --add-data "data/assets:data/assets" --add-data "data/midi:data/midi" --add-data "data/p99_spell_catalog.json:data" linux_gina.py
+      - name: Build Windows installer
+        shell: cmd
+        run: '"C:\Program Files (x86)\NSIS\makensis.exe" packaging\windows-installer.nsi'
+      - uses: actions/upload-artifact@v4
+        with:
+          name: windows-release
+          path: EQ-Watcher-Setup-windows-x64.exe
+
+  publish:
+    if: startsWith(github.ref, 'refs/tags/v')
+    needs: [linux, windows]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          merge-multiple: true
+      - uses: softprops/action-gh-release@v3
+        with:
+          generate_release_notes: true
+          files: |
+            EQ-Watcher-linux-x86_64.tar.gz
+            EQ-Watcher-Setup-windows-x64.exe

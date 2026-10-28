@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=EQ Watcher
+Comment=EverQuest log triggers, timers, inventory, and overlays
+Exec=@APP_DIR@/run-linux-gina.sh
+Icon=utilities-system-monitor
+Terminal=false
+Categories=Game;Utility;
+StartupNotify=true

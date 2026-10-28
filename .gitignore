@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*.bak*
+old-launchers/
+EQ Watcher.desktop
+build/
+dist/
+release/
+*.spec
+.venv/
+.idea/
+.vscode/
+
+# Runtime/user data. Keep only source assets needed by packaged builds.
+data/*
+!data/assets/
+!data/assets/**
+!data/midi/
+!data/midi/**
+!data/p99_spell_catalog.json

@@ -1,0 +1,31 @@
+name: Test
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+      - name: Compile Python
+        run: python -m py_compile linux_gina.py update_spell_catalog.py
+      - name: Check embedded JavaScript
+        run: |
+          python - <<'PY' | node --check
+          import linux_gina
+          print(linux_gina.HTML.split('<script>', 1)[1].split('</script>', 1)[0])
+          PY
+      - name: Inventory smoke test
+        run: |
+          python - <<'PY'
+          import linux_gina
+          assert linux_gina.normalized_inventory_item_name("Larrikan`s Mask") == "larrikan's mask"
+          assert "pearl" in linux_gina.COMMON_RAID_KIT_ITEMS
+          assert linux_gina.version_tuple("v1.2.3") == (1, 2, 3)
+          PY
